@@ -1,0 +1,44 @@
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(../frontend/includes/topscript.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 2
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/topscript.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 2
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(../frontend/includes/navbar.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 3
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 3
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(../frontend/includes/chatbot.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 4
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/chatbot.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 4
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(../adminware/config/dbcon.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 8
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(): Failed opening '../adminware/config/dbcon.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 8
+[14-Nov-2023 04:59:52 UTC] PHP Notice:  Undefined variable: con in /home/ldamwujn/public_html/job-category/batch/2024.php on line 62
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 62
+[14-Nov-2023 04:59:52 UTC] PHP Notice:  Undefined variable: con in /home/ldamwujn/public_html/job-category/batch/2024.php on line 72
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 72
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 73
+[14-Nov-2023 04:59:52 UTC] PHP Notice:  Undefined variable: con in /home/ldamwujn/public_html/job-category/batch/2024.php on line 101
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 101
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 102
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(../frontend/includes/footer.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 151
+[14-Nov-2023 04:59:52 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 151
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  include(../adminware/config/dbcon.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 8
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  include(): Failed opening '../adminware/config/dbcon.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 8
+[14-Nov-2023 05:02:08 UTC] PHP Notice:  Undefined variable: con in /home/ldamwujn/public_html/job-category/batch/2024.php on line 62
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 62
+[14-Nov-2023 05:02:08 UTC] PHP Notice:  Undefined variable: con in /home/ldamwujn/public_html/job-category/batch/2024.php on line 72
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 72
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 73
+[14-Nov-2023 05:02:08 UTC] PHP Notice:  Undefined variable: con in /home/ldamwujn/public_html/job-category/batch/2024.php on line 101
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 101
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ldamwujn/public_html/job-category/batch/2024.php on line 102
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  include(../frontend/includes/footer.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 151
+[14-Nov-2023 05:02:08 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 151
+[14-Nov-2023 05:02:37 UTC] PHP Warning:  include(../frontend/includes/footer.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 151
+[14-Nov-2023 05:02:37 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 151
+[14-Nov-2023 05:05:41 UTC] PHP Warning:  include(../frontend/includes/topscript.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 2
+[14-Nov-2023 05:05:41 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/topscript.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 2
+[14-Nov-2023 05:09:16 UTC] PHP Warning:  include(../../../frontend/includes/topscript.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 2
+[14-Nov-2023 05:09:16 UTC] PHP Warning:  include(): Failed opening '../../../frontend/includes/topscript.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 2
+[14-Nov-2023 05:10:35 UTC] PHP Warning:  include(../frontend/includes/footer.php): failed to open stream: No such file or directory in /home/ldamwujn/public_html/job-category/batch/2024.php on line 150
+[14-Nov-2023 05:10:35 UTC] PHP Warning:  include(): Failed opening '../frontend/includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldamwujn/public_html/job-category/batch/2024.php on line 150
+[14-Nov-2023 05:39:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ldamwujn/public_html/job-category/batch/more.php on line 102
+[14-Nov-2023 05:59:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ldamwujn/public_html/job-category/batch/more.php on line 102
+[14-Nov-2023 06:00:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ldamwujn/public_html/job-category/batch/more.php on line 73
+[14-Nov-2023 06:00:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ldamwujn/public_html/job-category/batch/more.php on line 102
+[14-Nov-2023 06:03:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ldamwujn/public_html/job-category/batch/more.php on line 73
+[14-Nov-2023 06:03:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ldamwujn/public_html/job-category/batch/more.php on line 102
